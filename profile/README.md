@@ -1,4 +1,4 @@
-# Welcome to the home of Delta Simulation projects!
-We are an open-source development community dedicated to creating high-fidelity aircraft for flight simulation. 
+# Welcome to the home of our projects!
+We are an open-source development community dedicated to creating high-fidelity aircraft for flight simulation. Here, you will find our development repositories. 
 
-![C-17 Outlook](image-2.png)
+![C-17 Outlook](/images/C17Frontal.png)
